@@ -15,7 +15,7 @@ NoteTextPopularization
 
 MM2AK* (/w respect to obsidian_to_anki)
 
-chatGPT mm* (/w respect to chatGPD md for obsidian)
+chatGPT MM* (/w respect to chatGPD MD for obsidian)
 
 Use with others, alone:
 
