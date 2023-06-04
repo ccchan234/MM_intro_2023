@@ -13,7 +13,7 @@ NoteTextPopularization
 
 1MapComparer
 
-MM2AK (/w respect to obsidian_to_anki)
+MM2AK* (/w respect to obsidian_to_anki)
 
 chatGPT mm* (/w respect to chatGPD md for obsidian)
 
